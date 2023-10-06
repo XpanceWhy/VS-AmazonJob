@@ -12,6 +12,6 @@ Change the locations of pickup, dropoff, animations, blips, markers
 Change the vehicle for delivery
 
 # Links
-[PREVIEW] : https://www.youtube.com/watch?v=ug-yl43PTTM&ab_channel=Vestige
+[PREVIEW] : https://www.youtube.com/watch?v=z_b3VJALCMY&ab_channel=Vestige
 
 [DISCORD] : https://discord.com/invite/vestige
