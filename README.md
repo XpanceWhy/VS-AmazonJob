@@ -3,8 +3,8 @@ Highly customizable custom amazon delivery job
 
 # Depedencies
 - QBCORE
- - Qb-vehicle keys (given with the script)
-- ESX (soon)
+OR
+- ESX 
 
 # Config
 Easily switch between qbcore and esx by chaing the " Config.Framework = "esx" -- esx or qbcore "
